@@ -1,15 +1,15 @@
-public class Rectangle {
+public class hw9_1 {
     private double width;
     private double height;
 
     // 默认构造方法
-    public Rectangle() {
+    public hw9_1() {
         this.width = 1;
         this.height = 1;
     }
 
     // 带参数的构造方法
-    public Rectangle(double width, double height) {
+    public hw9_1(double width, double height) {
         this.width = width;
         this.height = height;
     }
@@ -35,6 +35,5 @@ public class Rectangle {
     }
 }
 
-// 测试程序
 
 
