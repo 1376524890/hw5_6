@@ -4,7 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="686fed0e-2713-4b0d-a405-8201445d4176" name="更改" comment="9-4完成" />
+    <list default="true" id="686fed0e-2713-4b0d-a405-8201445d4176" name="更改" comment="9-6完成" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -60,12 +60,21 @@
       <option name="project" value="LOCAL" />
       <updated>1714927117873</updated>
     </task>
-    <option name="localTasksCounter" value="2" />
+    <task id="LOCAL-00002" summary="9-6完成">
+      <option name="closed" value="true" />
+      <created>1714927424378</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1714927424378</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="9-4完成" />
-    <option name="LAST_COMMIT_MESSAGE" value="9-4完成" />
+    <MESSAGE value="9-6完成" />
+    <option name="LAST_COMMIT_MESSAGE" value="9-6完成" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
