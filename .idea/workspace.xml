@@ -4,11 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="686fed0e-2713-4b0d-a405-8201445d4176" name="更改" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/uiDesigner.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/hw9_1.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/hw9_1.java" afterDir="false" />
-    </list>
+    <list default="true" id="686fed0e-2713-4b0d-a405-8201445d4176" name="更改" comment="9-4完成" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -43,7 +39,8 @@
     "git-widget-placeholder": "master",
     "kotlin-language-version-configured": "true",
     "onboarding.tips.debug.path": "D:/Java_learn/hw5_6/src/Main.java",
-    "应用程序.Main.executor": "Run"
+    "应用程序.Main.executor": "Run",
+    "应用程序.hw9_4.executor": "Run"
   }
 }]]></component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="应用程序级" UseSingleDictionary="true" transferred="true" />
@@ -55,7 +52,20 @@
       <option name="presentableId" value="Default" />
       <updated>1714925432268</updated>
     </task>
+    <task id="LOCAL-00001" summary="9-4完成">
+      <option name="closed" value="true" />
+      <created>1714927117873</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1714927117873</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="9-4完成" />
+    <option name="LAST_COMMIT_MESSAGE" value="9-4完成" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
